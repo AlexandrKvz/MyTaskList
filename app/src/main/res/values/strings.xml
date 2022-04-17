@@ -1,0 +1,64 @@
+<resources>
+    <string name="app_name">MyTaskList</string>
+    <!-- Menu -->
+
+    <string name="ad_cat1">Menu</string>
+    <string name="settings">Settings</string>
+    <string name="day_list">day list</string>
+    <string name="new_item">New</string>
+    <string name="ad_cat2">Account</string>
+    <string name="ac_sign_up">Sign Up</string>
+    <string name="ac_sign_in">Sign In</string>
+    <string name="ac_sign_out">Sign Out</string>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+    <string name="note_reg">Sign in or Sign up!</string>
+
+
+
+
+    <string name="new_list">New list name</string>
+    <string name="list_name">List name</string>
+    <string name="create_list">Create list</string>
+    <string name="update">Update</string>
+    <string name="delete_item">Do you want delete this item?</string>
+    <string name="delete_alert">Delete</string>
+    <string name="delete">Delete</string>
+    <string name="cancel">Cancel</string>
+    <string name="delete_list">Delete list</string>
+    <string name="clear_list">Clear list</string>
+    <string name="share_list">Share list</string>
+    <string name="new_items">New item</string>
+    <string name="save_item">Save item</string>
+    <string name="empty">Empty</string>
+    <string name="update_list_item">Update list item</string>
+    <string name="name">Name</string>
+    <string name="item_info">Item info</string>
+    <string name="update_item">Update item</string>
+    <string name="general">General</string>
+    <string name="chose_note_style">Chose note style</string>
+    <string name="chose_time_format">Chose time format</string>
+    <string name="remove_ads">Remove ads</string>
+    <string name="remove_ads_summery">Remove all ads from this app</string>
+    <string name="theme_settings">Theme settings</string>
+    <string name="chose_theme">Chose theme</string>
+    <string name="note_text_settings">Note text settings</string>
+    <string name="title_text_size">Title text settings</string>
+    <string name="content_text_size">Content text settings</string>
+
+    <string name="email_hint">Email</string>
+    <string name="email_reset_password">Reset email was sent!</string>
+    <string name="dialog_reset_email_message">Enter your email to reset your password</string>
+    <string name="password_hint">Password</string>
+    <string name="sign_in">Sign In</string>
+    <string name="sign_in_action">To come in</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="sign_up_action">Register</string>
+    <string name="forget_password">Forget password</string>
+    <string name="account">Account</string>
+    <string name="sign_up_error">Error</string>
+    <string name="sign_in_error">Error</string>
+    <string name="send_email_verification_done">Confirm verification on your mail</string>
+    <string name="send_email_verification_error">Error verification on your mail</string>
+    <string name="msg_token_fmt">token</string>
+</resources>

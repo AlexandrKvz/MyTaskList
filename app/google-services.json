@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "356755342142",
+    "project_id": "mytasklist-97b1d",
+    "storage_bucket": "mytasklist-97b1d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:356755342142:android:13b26223033bee53f8a26f",
+        "android_client_info": {
+          "package_name": "com.xotkins.mytasklist"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "356755342142-f41dpm1jd1t6tqon8hqgrv06k3b85aiu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCX9sl_p99HY6u27BK9lkLsElUaRjG0edk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "356755342142-f41dpm1jd1t6tqon8hqgrv06k3b85aiu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

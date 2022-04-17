@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <PreferenceCategory android:title="@string/general">
+
+        <ListPreference
+            android:defaultValue="hh:mm:ss - yyyy/MM/dd"
+            android:entries="@array/time_format_array"
+            android:entryValues="@array/time_format_values"
+            app:useSimpleSummaryProvider="true"
+            android:key="time_format_key"
+            android:icon="@drawable/ic_time_format"
+            android:title="@string/chose_time_format" />
+    </PreferenceCategory>
+    <PreferenceCategory android:title="@string/theme_settings">
+
+        <ListPreference
+            android:defaultValue="green"
+            android:entries="@array/chose_theme_array"
+            android:entryValues="@array/chose_theme_values"
+            android:key="theme_key"
+            android:icon="@drawable/ic_theme_style"
+            app:useSimpleSummaryProvider="true"
+            android:title="@string/chose_theme" />
+    </PreferenceCategory>
+</PreferenceScreen>
